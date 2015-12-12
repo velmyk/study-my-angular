@@ -1,0 +1,23 @@
+{
+  "name": "my-angular",
+  "version": "1.0.0",
+  "description": "Building AngularJS with Tero Parviainen",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/velmyk/my-angular.git"
+  },
+  "keywords": [
+    "angular",
+    "framework"
+  ],
+  "author": "Vasyl Velmyk (Tero Parviainen)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/velmyk/my-angular/issues"
+  },
+  "homepage": "https://github.com/velmyk/my-angular#readme"
+}
