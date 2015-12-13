@@ -1,0 +1,13 @@
+{
+  "globalstrict": true,
+  "globals": {
+    "describe": false,
+    "it": false,
+    "expect": false,
+    "beforeEach": false,
+    "afterEach": false,
+    "jasmine": false,
+    "module": false,
+    "inject": false
+  }
+}
