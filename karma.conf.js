@@ -14,8 +14,8 @@ module.exports = function(config) {
     frameworks: ['jasmine'],
 
     files: [
-      'bower_components/jquery/dist/jquery.js',
-      'bower_components/lodash/lodash.js',
+      'node_modules/jquery/dist/jquery.js',
+      'node_modules/lodash/lodash.js',
       'src/**/*.js'
     ],
 
